@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/YOLO/TrafficLights/data/train/images
+val: /content/drive/MyDrive/YOLO/TrafficLights/data/valid/images
+
+
+nc: 3
+names: ['green', 'red', 'yellow']
