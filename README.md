@@ -1,0 +1,3 @@
+# Object Detection using YOLOv8
+
+Implemented an object detection system using YOLOv8 to identify traffic lights in images and videos. Leveraged Python and deep learning techniques to train the model on a custom dataset comprising various traffic light scenarios. The model accurately identifies whether the traffic light is displaying green, red, or yellow signals in real-time. This project involved extensive pre-processing of images, fine-tuning YOLOv8 architecture, and optimizing model performance for efficient inference. Additionally, integrated the model with OpenCV for seamless video processing. This project demonstrates proficiency in computer vision, deep learning, and real-time object detection applications.
